@@ -205,3 +205,4 @@ function Tamagotchi (name, gender) {
       helpMe();
     };
 }
+helpMe();
